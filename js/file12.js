@@ -57,7 +57,7 @@ $(document).ready(function() {
       var toppingd =$("select#sel4").val();
       var number = $("input#sel5").val();
      
-       var price, totalPrice;
+       var price, ;
        switch (typec) {
            case type = "PEPERONI pizza":
                switch (sized) {
