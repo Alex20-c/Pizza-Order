@@ -27,4 +27,4 @@
 - E-mail:kipropalex59@gmail.com
 
 ## Copyright and License
-MIT lICENSE Copyright (C) [2019] [Alex Kiprop]       
+MIT LiCENSE Copyright (c) [2019] [Alex Kiprop]       
