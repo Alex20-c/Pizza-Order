@@ -5,7 +5,7 @@
 - PIZZA RESTAURANT is a website that is used to order different pizza online 
 <img src="/img/pizza_1.jpg">
 ## Setup
-To start using this project use the following commands:
+* To start using this project use the following commands:
 
 * git clone
 * cd Pizza-Order
