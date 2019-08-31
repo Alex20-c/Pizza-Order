@@ -20,10 +20,11 @@
  ### social media
  - We have also listed or social media account from there where you can reach on us
        and share your experience and feedback you got from our restaurant.
-## Copyright and License
-MIT lICENSE Copyright (C) [2019] [Alex Kiprop]       
 
 #### contact
 - User Name:: Alex kiprop
 - phone contact ::0727200709
 - E-mail:kipropalex59@gmail.com
+
+## Copyright and License
+MIT lICENSE Copyright (C) [2019] [Alex Kiprop]       
