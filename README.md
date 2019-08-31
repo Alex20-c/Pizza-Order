@@ -4,8 +4,8 @@
 ### Description
 - PIZZA RESTAURANT is a website that is used to order different pizza online 
 <img src="/img/pizza_1.jpg">
-## Setup/Installation Requirement
 
+## Setup/Installation Requirement
 * git clone https://github.com/Alex20-c/Pizza-Order.git
 * cd Pizza-Order
 * subl .
