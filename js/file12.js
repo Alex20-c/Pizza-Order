@@ -1,6 +1,6 @@
 document.getElementById("delivery").addEventListener("click", function () { 
     prompt("enter your address");
-    alert("thank you for using our services,your order willbe delivered at your place");
+    alert("Thank you for using our services,your order will be delivered at your place");
     
   })
   function Pizza(type,size,crust,topping,numbers, totalPrice) {
