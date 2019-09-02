@@ -319,19 +319,24 @@ $(document).ready(function () {
                         price = 5500;
                         if (crusts === "Thin Crust") {
                             total = (price * num) + 1000;
+                            alert(total);
                         } else if (crusts === "Thick Crust") {
                             total = (price * numr) + 1500;
+                            alert(total);
                         }
                         else if (crusts === "FatBread Crust") {
                             total = (price * num) + 2500;
+                            alert(total);
                         }
                         else {
                             total = (price * num) + 4500;
+                            alert(total);
                         }
                         break;
                 }
         }
         console.log(total);
+        alert(total);
     });
 });
 // $("form#new-pizz").submit(function(event){
