@@ -1,6 +1,7 @@
 document.getElementById("delivery").addEventListener("click", function () { 
     prompt("enter your address");
     alert("Thank you for using our services,your order will be delivered at your place");
+    alert(myOrder);
     
   })
   function Pizza(type,size,crust,topping,numbers, totalPrice) {
@@ -34,6 +35,8 @@ $(document).ready(function() {
      
       var newPizza = new Pizza(typeA,sizeB,crustC,toppingD,numberz,total);
   console.log(newPizza);
+  var myOrder = newPizza.fullOrder();
+  alert( myOrder);
   
     
     
